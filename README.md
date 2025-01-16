@@ -1,10 +1,10 @@
 Hi 👋 My name is Venkat Raman Behera
 ====================================
 
-Aspiring Javascript Developer
+Aspiring Fullstack Developer
 -----------------------------
 
-A hard-working individual experience of 2.5 year with proficiency in HTML, JavaScript, React, React Native, Node, MongoDB, ROR, SQL, Postgres, Data Structure and strong ability to communicate and work in a team.
+A hard-working individual experience of 3.5 year with proficiency in HTML, JavaScript, React, React Native, Node, MongoDB, ROR, SQL, Postgres, Data Structure and strong ability to communicate and work in a team.
 
 * 🌍  I'm based in India, Odisha
 * 🖥️  See my portfolio at [My Portfolio](http://venkatramanbehera.netlify.app/)
